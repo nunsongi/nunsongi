@@ -49,3 +49,18 @@ I'm currently focusing on building strong foundations in:
 
 <br/>
 
+### 🎯 Future Goals
+
+- 🔬 Build and showcase my own **Data Science** and **Computer Vision** projects.  
+- 🧠 Deeply understand advanced **AI** topics like **Transformers** and **Generative AI**.  
+- 🤝 Contribute to open-source projects that match my interests and skills.  
+- 🌐 Create a personal portfolio website and blog to share my learning.  
+- 🖥️ Customize my dream tech setup, inspired by creativity and performance.  
+
+<br/>
+
+### 🌱 Favorite Quote
+
+> “I believe that small, consistent steps — or even better, *the most you can do each day* — lead to faster and greater achievements!” 🌟
+
+<br/>
