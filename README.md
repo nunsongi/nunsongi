@@ -71,8 +71,4 @@ I'm currently focusing on building strong foundations in:
   </a>
  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nunsongi0613@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-</a>
-  <a href="https://www.kaggle.com/btsarmy17">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
-</div>
 
