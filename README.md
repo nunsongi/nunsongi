@@ -53,9 +53,9 @@ I'm currently focusing on building strong foundations in:
 
 - 🔬 Build and showcase my own **Data Science** and **Computer Vision** projects.  
 - 🧠 Deeply understand advanced **AI** topics like **Transformers** and **Generative AI**.  
-- 🤝 Contribute to open-source projects that match my interests and skills.  
-- 🌐 Create a personal portfolio website and blog to share my learning.  
-- 🖥️ Customize my dream tech setup, inspired by creativity and performance.  
+- 🤝 Contribute to **open-source projects** that match my interests and skills.  
+- 🌐 Create my **portfolio website** to show my data science and AI projects.  
+- 🖥️ Optimize my **tech setup** to maximize my **productivity and creativity**. 
 
 <br/>
 
