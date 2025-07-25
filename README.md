@@ -61,7 +61,7 @@ I'm currently focusing on building strong foundations in:
 
 ### 🌱 Favorite Quote
 
-> “I believe that small, consistent steps — or even better, *the most you can do each day* — lead to faster and greater achievements!” 🌟
+> “Siempre apoyaré tu vida, tus sueños, tus deseos, tu esperanza, tu tristeza, tu ira, tu temperamento, tu situación.” --Kim Namjoon🌟
 
 <br/>
  
