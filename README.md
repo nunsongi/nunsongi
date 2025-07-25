@@ -64,5 +64,9 @@ I'm currently focusing on building strong foundations in:
 > “Siempre apoyaré tu vida, tus sueños, tus deseos, tu esperanza, tu tristeza, tu ira, tu temperamento, tu situación.” --Kim Namjoon🌟
 
 <br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!+🌟!&font=Fira%20Code&fontWeight=bold&center=true&width=500&height=50&color=8A2BE2&vcenter=true" alt="Typing SVG" />
+</div>
  
 
