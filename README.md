@@ -65,8 +65,6 @@ I'm currently focusing on building strong foundations in:
 
 <br/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=THX!+🌟!&font=Fira%20Code&fontWeight=bold&center=true&width=500&height=50&color=8A2BE2&vcenter=true" alt="Typing SVG" />
-</div>
+
  
 
