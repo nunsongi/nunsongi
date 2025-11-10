@@ -11,9 +11,8 @@
 ### ✨ About Me
 
 **Hi, I'm Dayana — also known as Nunsongi!**  
-I'm a passionate **Junior Data Scientist** and self-taught learner on a journey through the exciting worlds of **programming**, **data science**, **machine learning**, and **artificial intelligence**.  
-My dream is to build intelligent systems that can understand and interpret the world — especially through **Computer Vision** and **Deep Learning**.📚💫
-
+I’m a data scientist junior and self-taught learner exploring AI/ML. 
+My goal is to build intelligent systems that learn from data and make sense of the world. 📚💫
 <br/>
 
 ### 🚀 Learning Roadmap
