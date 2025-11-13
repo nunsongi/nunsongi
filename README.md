@@ -11,7 +11,7 @@
 ### ✨ About Me
 
 **Hi, I'm Dayana — also known as Nunsongi!**  
-I’m a data scientist junior and self-taught learner exploring AI/ML. 
+I’m a junior data scientist and self-taught learner exploring AI/ML. 
 My goal is to build intelligent systems that learn from data and make sense of the world. 📚💫
 <br/>
 
@@ -34,7 +34,6 @@ I'm currently focusing on building strong foundations in:
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Polars-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-D62728?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-2D3F77?style=for-the-badge&logo=python&logoColor=white" />
