@@ -6,35 +6,48 @@
   <img src="https://i.imgur.com/YhbdSRg.jpeg" width="600" alt="Goal Purple Setup"/>
 </div>
 
-<br/>
+---
 
-### ✨ About Me
+## ✨ About Me
 
-**Hi, I'm Dayana — also known as Nunsongi!**  
-I’m a junior data scientist and self-taught learner exploring AI/ML. 
-My goal is to build intelligent systems that learn from data and make sense of the world. 📚💫
-<br/>
+**Hi, I'm Dayana — also known as Nunsongi.**  
+I'm an aspiring **Data Scientist** and self-taught **AI/ML learner**.  
+I love turning data into stories, insights, and intelligent systems that can understand a little more about the world every day. 📚💫  
 
-### 🚀 Learning Roadmap
+- 💜 Passionate about **Data Science, AI, and Computer Vision**  
+- 🧠 Learning step by step to build real-world, impactful projects  
+- 🌎 From Ecuador, dreaming big and building my future in tech  
 
-I'm currently focusing on building strong foundations in:
+---
 
-- 🐍 **Python Programming**: Writing efficient and clean code for AI applications.  
-- 📊 **Data Science**: Extracting insights from data using tools like Pandas, NumPy, and Matplotlib.  
-- 🧠 **Machine Learning**: Learning algorithms like **SVM**, **KNN**, **Decision Trees**, and **Random Forest**.  
-- 👁️ **Deep Learning & Computer Vision**: Exploring **CNNs**, **Transfer Learning**, and **OpenCV**.  
-- 🔢 **Mathematics**: Studying linear algebra, calculus, and optimization.  
-- 🎲 **Statistics & Probability**: Building a solid understanding of probabilistic models.  
-- 🛠️ **Tools & Collaboration**: Using **Git**, **GitHub**, and **Jupyter Notebooks**.  
+## 🚀 Learning Roadmap
 
-<br/>
+Right now, I’m focused on building strong foundations in:
 
-### 💻 Tools 
+- 🐍 **Python Programming** – Writing clean, efficient code for data and ML.
+- 📊 **Data Analysis** – Working with **Pandas, NumPy, Matplotlib, Seaborn, Plotly**.
+- 🧠 **Machine Learning** – Studying algorithms like **SVM, KNN, Decision Trees, Random Forest**.
+- 👁️ **Deep Learning & Computer Vision** – Exploring **CNNs, Transfer Learning, OpenCV**.
+- 🔢 **Mathematics for AI** – Linear algebra, calculus, optimization basics.
+- 🎲 **Statistics & Probability** – Understanding uncertainty, distributions, and inference.
+- 🛠️ **Tools & Workflow** – Using **Git, GitHub, Jupyter Notebooks** for experiments and projects.
+
+---
+
+## 🧪 What I’m Currently Working On
+
+- 🌧️ A **risk map project** using real rainfall data from Quito.  
+- 💻 Building and improving my **personal portfolio** to showcase my ML and Data Science projects.  
+- 📚 Creating a solid **study roadmap** for Data Science, AI, and math foundations.
+
+---
+
+## 💻 Tech Stack & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-D62728?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-2D3F77?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
@@ -45,24 +58,21 @@ I'm currently focusing on building strong foundations in:
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-<br/>
+---
 
-### 🎯 Future Goals
+## 🎯 Goals
 
-- 🔬 Build and showcase my own **Data Science** and **Computer Vision** projects.  
-- 🧠 Deeply understand advanced **AI** topics like **Transformers** and **Generative AI**.  
-- 🤝 Contribute to **open-source projects** that match my interests and skills.  
-- 🌐 Create my **portfolio website** to show my data science and AI projects.  
-- 🖥️ Optimize my **tech setup** to maximize my **productivity and creativity**. 
+- 🔬 Build and share **Data Science** and **Computer Vision** projects end to end.  
+- 🧠 Learn advanced **AI topics** like **Transformers** and **Generative Models**.  
+- 🤝 Start contributing to **open-source projects** related to AI and data.  
+- 🌐 Grow a strong **online portfolio** that reflects my journey and skills.  
+- 🖥️ Create a productive and aesthetic **tech setup** that keeps me motivated.  
 
-<br/>
+---
 
-### 🌱 Favorite Quote
+## 🌱 Favorite Quote
 
-> “Siempre apoyaré tu vida, tus sueños, tus deseos, tu esperanza, tu tristeza, tu ira, tu temperamento, tu situación.” --Kim Namjoon🌟
+> “Siempre apoyaré tu vida, tus sueños, tus deseos, tu esperanza, tu tristeza, tu ira, tu temperamento, tu situación.”  
+> — **Kim Namjoon** 🌟
 
-<br/>
-
-
- 
-
+---
