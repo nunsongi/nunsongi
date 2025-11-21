@@ -34,14 +34,6 @@ Right now, I’m focused on building strong foundations in:
 
 ---
 
-## 🧪 What I’m Currently Working On
-
-- 🌧️ A **risk map project** using real rainfall data from Quito.  
-- 💻 Building and improving my **personal portfolio** to showcase my ML and Data Science projects.  
-- 📚 Creating a solid **study roadmap** for Data Science, AI, and math foundations.
-
----
-
 ## 💻 Tech Stack & Tools
 
 <p align="left">
