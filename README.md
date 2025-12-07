@@ -14,10 +14,6 @@
 I'm an aspiring **Data Scientist** and self-taught **AI/ML learner**.  
 I love turning data into stories, insights, and intelligent systems that can understand a little more about the world every day. 📚💫  
 
-- 💜 Passionate about **Data Science, AI, and Computer Vision**  
-- 🧠 Learning step by step to build real-world, impactful projects  
-- 🌎 From Ecuador, dreaming big and building my future in tech  
-
 ---
 
 ## 🚀 Learning Roadmap
