@@ -61,7 +61,7 @@ Right now, I’m focused on building strong foundations in:
 
 ## 🌱 Favorite Quote
 
-> “Siempre apoyaré tu vida, tus sueños, tus deseos, tu esperanza, tu tristeza, tu ira, tu temperamento, tu situación.”  
-> — **Kim Namjoon** 🌟
+> “I always stand by your side even if I am here stuck in my studio. Always support your life, what you do, what you eat, how you live, the people you love… I support your life, your dream, your wish, your hope, your sadness, your anger, your temper, your situation. Let's just stand by each other's side and fighting! But just don’t forget. I always stay by your side like the song Stay”  
+> — **220721, Kim Namjoon”** 🌟
 
 ---
