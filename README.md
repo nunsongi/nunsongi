@@ -10,7 +10,7 @@
 
 ## ✨ About Me
 
-**Hi, I'm Dayana — also known as Nunsongi.**  
+**Hi, I'm Nunsongi.**  
 I'm an aspiring **Data Scientist** and self-taught **AI/ML learner**.  
 I love turning data into stories, insights, and intelligent systems that can understand a little more about the world every day. 📚💫  
 
