@@ -23,7 +23,7 @@ Right now, I’m focused on building strong foundations in:
 - 🐍 **Python Programming** – Writing clean, efficient code for data and ML.
 - 📊 **Data Analysis** – Working with **Pandas, NumPy, Matplotlib, Seaborn, Plotly**.
 - 🧠 **Machine Learning** – Studying core ML algorithms such as **Linear & Logistic Regression, KNN, Decision Trees, Random Forest, and SVM**.
-- 👁️ **Deep Learning & Computer Vision** – Exploring **CNNs, Transfer Learning, OpenCV**.
+- 👁️ **Deep Learning & Computer Vision** – Exploring **CNNs, Transfer Learning, and Computer Vision with OpenCV**.
 - 🔢 **Mathematics for AI** – Linear algebra, calculus, optimization basics.
 - 🎲 **Statistics & Probability** – Understanding uncertainty, distributions, and inference.
 - 🛠️ **Tools & Workflow** – Using **Git, GitHub, Jupyter Notebooks** for experiments and projects.
