@@ -22,11 +22,11 @@ Right now, I’m focused on building strong foundations in:
 
 - 🐍 **Python Programming** – Writing clean, efficient code for data and ML.
 - 📊 **Data Analysis** – Working with **Pandas, NumPy, Matplotlib, Seaborn, Plotly**.
-- 🧠 **Machine Learning** – Studying core ML algorithms such as **Linear & Logistic Regression, KNN, Decision Trees, Random Forest, and SVM**.
+- 🧠 **Machine Learning** – Studying core ML algorithms (**Linear/Logistic Regression, KNN, DT, RF, SVM**).
 - 👁️ **Deep Learning & Computer Vision** – Exploring **CNNs, Transfer Learning, and Computer Vision with OpenCV**.
-- 🔢 **Mathematics for AI** – Linear algebra, calculus, optimization basics.
+- 🔢 **Mathematics for AI** – Linear algebra, calculus, and optimization fundamentals.
 - 🎲 **Statistics & Probability** – Understanding uncertainty, distributions, and inference.
-- 🛠️ **Tools & Workflow** – Using **Git, GitHub, Jupyter Notebooks** for experiments and projects.
+- 🛠️ **Tools & Workflow** – Using Git, GitHub, and Jupyter Notebooks for experiments, version control, and projects.
 
 ---
 
@@ -36,8 +36,8 @@ Right now, I’m focused on building strong foundations in:
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-D62728?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-2D3F77?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-D62728?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-2D3F77?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
@@ -51,7 +51,7 @@ Right now, I’m focused on building strong foundations in:
 
 ## 🎯 Goals
 
-- 🔬 Build and share **Data Science** and **Computer Vision** projects end to end.  
+- 🔬 Build and share end-to-end Data Science and Computer Vision projects, from data collection to deployment.  
 - 🧠 Learn advanced **AI topics** like **Transformers** and **Generative Models**.  
 - 🤝 Start contributing to **open-source projects** related to AI and data.  
 - 🌐 Grow a strong **online portfolio** that reflects my journey and skills.  
