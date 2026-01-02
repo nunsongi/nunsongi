@@ -51,7 +51,7 @@ Right now, I’m focused on building strong foundations in:
 
 ## 🎯 Goals
 
-- 🔬 Build and share end-to-end Data Science and Computer Vision projects, from data collection to deployment.  
+- 🔬 Build and share end-to-end Data Science & Computer Vision projects.  
 - 🧠 Learn advanced **AI topics** like **Transformers** and **Generative Models**.  
 - 🤝 Start contributing to **open-source projects** related to AI and data.  
 - 🌐 Grow a strong **online portfolio** that reflects my journey and skills.  
