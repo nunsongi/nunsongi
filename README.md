@@ -12,7 +12,7 @@
 
 **Hi, I'm Nunsongi.**  
 I'm an aspiring **Data Scientist** and self-taught **AI/ML learner**.  
-I love turning data into stories, insights, and intelligent systems that can understand a little more about the world every day. 📚💫  
+I enjoy turning data into stories, insights, and intelligent systems that learn a little more about the world every day.📚💫  
 
 ---
 
